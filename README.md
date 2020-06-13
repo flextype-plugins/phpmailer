@@ -6,8 +6,7 @@
 
 ## Features
 
-* Probably the world's most popular code for sending email from PHP!
-* Used by many open-source projects: WordPress, Drupal, 1CRM, SugarCRM, Yii, Joomla! and many more
+* The world's most popular code for sending email from PHP!
 * Integrated SMTP support - send without a local mail server
 * Send emails with multiple To, CC, BCC and Reply-to addresses
 * Multipart/alternative emails for mail clients that do not read HTML email
@@ -24,7 +23,7 @@
 
 ## Dependencies
 
-The following dependencies need to be downloaded and installed for Accounts Plugin.
+The following dependencies need to be downloaded and installed for PHP Mailer Plugin.
 
 | Item | Version | Download |
 |---|---|---|
