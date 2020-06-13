@@ -43,10 +43,10 @@ The following dependencies need to be downloaded and installed for Accounts Plug
 | Key | Value | Description |
 |---|---|---|
 | enabled | true | true or false to disable the plugin |
-| priority | 80 | accounts plugin priority |
+| priority | 80 | phpmailer plugin priority |
 
 [Official PHP Mailer documentation](https://github.com/PHPMailer/PHPMailer)
 
 ## LICENSE
-[The MIT License (MIT)](https://github.com/flextype-plugins/accounts/blob/master/LICENSE.txt)
+[The MIT License (MIT)](https://github.com/flextype-plugins/phpmailer/blob/master/LICENSE.txt)
 Copyright (c) 2020 [Sergey Romanenko](https://github.com/Awilum)
