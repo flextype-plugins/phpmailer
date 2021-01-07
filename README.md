@@ -42,7 +42,7 @@ The following dependencies need to be downloaded and installed for PHP Mailer Pl
 | Key | Value | Description |
 |---|---|---|
 | enabled | true | true or false to disable the plugin |
-| priority | 80 | phpmailer plugin priority |
+| priority | 100 | phpmailer plugin priority |
 
 [Official PHP Mailer documentation](https://github.com/PHPMailer/PHPMailer)
 
